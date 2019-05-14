@@ -1,20 +1,3 @@
 {
-  "portofolio" : {
-    "01" : {
-      "title" : "ngemount",
-	  "deskripsi" : "aku sih gak eruh"
-    },
-    "02" : {
-       "title" : "servisin",
-	  "deskripsi" : "aku sih gak eruh"
-    },
-    "03" : {
-      "title" : "project web 2",
-	  "deskripsi" : "aku sih gak eruh"
-    },
-    "04" : {
-       "title" : "musik player",
-	  "deskripsi" : "aku sih gak eruh"
-    }
-  }
+  
 }
