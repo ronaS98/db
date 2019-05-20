@@ -1,20 +1,26 @@
 {
-  "portofolio" : {
-    "01" : {
-      "title" : "ngemount",
-	  "deskripsi" : "aku sih gak eruh"
-    },
-    "02" : {
-       "title" : "servisin",
-	  "deskripsi" : "aku sih gak eruh"
-    },
-    "03" : {
-      "title" : "project web 2",
-	  "deskripsi" : "aku sih gak eruh"
-    },
-    "04" : {
-       "title" : "musik player",
-	  "deskripsi" : "aku sih gak eruh"
-    }
+ "persons" :
+ [{
+  "id": 1,
+    "name": "Sistem Informasi Nge-Mount",
+    "desc": "Sistem Informasi yang dibuat untuk mempermudah pengguna untuk melakukan pendakian gunung",
+    "job": "Dalam proyek ini saya mengerjakan bagian Front End"
+    
+  },
+ 
+  {
+  "id": 2,
+    "name": "Aplikasi Servisin",
+    "desc": "Aplikasi yang dibuat untuk mempermudah pengguna melakukan servis barang elektronik	",
+    "job": "Dalam proyek ini saya mengerjakan bagian Programmer"
+  }, 
+  
+  {
+  "id": 3,
+    "name": " Projek Web @",
+    "desc": "Merupakan peembuatan web untuk sebagai tugas akhir mata kuliah WEB 2",
+    "job": "Front End"
   }
+ 
+ ]
 }
