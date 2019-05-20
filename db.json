@@ -4,7 +4,7 @@
   "id": 1,
     "name": "Sistem Informasi Nge-Mount",
     "desc": "Sistem Informasi yang dibuat untuk mempermudah pengguna untuk melakukan pendakian gunung",
-    "job": "Dalam proyek ini saya mengerjakan bagian Front End"
+    "job": "Dalam proyek ini saya sebagai ront End"
     
   },
  
@@ -12,14 +12,14 @@
   "id": 2,
     "name": "Aplikasi Servisin",
     "desc": "Aplikasi yang dibuat untuk mempermudah pengguna melakukan servis barang elektronik",
-    "job": "Dalam proyek ini saya mengerjakan bagian Programmer"
+    "job": "Dalam proyek ini saya sebagai Programmer"
   }, 
   
   {
   "id": 3,
-    "name": " Projek Web @",
+    "name": " Projek Web 2",
     "desc": "Merupakan peembuatan web untuk sebagai tugas akhir mata kuliah WEB 2",
-    "job": "Front End"
+    "job": "Dalam proyek ini saya sebagai Front End"
   }
  
  ]
