@@ -3,23 +3,23 @@
  [{
   "id": 1,
     "name": "Sistem Informasi Nge-Mount",
-    "desc": "Sistem Informasi yang dibuat untuk mempermudah pengguna untuk melakukan pendakian gunung",
-    "job": "Dalam proyek ini saya sebagai ront End"
+    "desc": "Sistem Informasi yang dibuat untuk mempermudah pengguna untuk melakukan pendakian gunung guna memenuhi Tugas akhir Proyek Aplikasi bersama Mas Abran, Mas Galih dan Mas Friday",
+    "job": "Dalam proyek ini saya sebagai Front End"
     
   },
  
   {
   "id": 2,
     "name": "Aplikasi Servisin",
-    "desc": "Aplikasi yang dibuat untuk mempermudah pengguna melakukan servis barang elektronik",
+    "desc": "Aplikasi yang dibuat untuk mempermudah pengguna melakukan servis barang elektronik  guna memenuhi tugas akhir PAPB 2",
     "job": "Dalam proyek ini saya sebagai Programmer"
   }, 
   
   {
   "id": 3,
-    "name": " Projek Web 2",
-    "desc": "Merupakan peembuatan web untuk sebagai tugas akhir mata kuliah WEB 2",
-    "job": "Dalam proyek ini saya sebagai Front End"
+    "name": " TravelWae",
+    "desc": "Merupakan tugas akhir dari Perancangan Antar Pengguna , Tugas akhir ini berupa desain UI untuk Aplikasi berbasis desktop ",
+    "job": "Dalam proyek ini saya sebagai Desainer"
   }
  
  ]
